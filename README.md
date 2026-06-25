@@ -49,7 +49,7 @@ git clone https://github.com/YOUR_USERNAME/SecureCrypt.git
 cd SecureCrypt
 
 # 2. Run the deployment setup (Requires install.sh utility)
-sudo ./install.sh
+sudo bash install.sh
 
 ```
 
