@@ -1,0 +1,11 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# OS temporary files
+.DS_Store
+.tmp.*
+
+# Avoid accidentally uploading your own encrypted or test data
+*.enc
+*.tar.gz
